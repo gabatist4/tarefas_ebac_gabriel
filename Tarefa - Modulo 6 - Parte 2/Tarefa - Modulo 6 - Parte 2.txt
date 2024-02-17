@@ -1,0 +1,17 @@
+Início
+	1. Acordar e abrir os olhos;
+	2. Levantar e caminhar até a cozinha;
+	3. Pegar um copo na prateleira;
+	4. ligar a torneira do bebedouro;
+	5. Se sair água;
+		1. Encher o copo de água;
+		2. beber a água do copo;
+	5. Se não sair água;
+		1. Caminhar até a dispença;
+		2. Pegar um novo galão de água;
+		3. Caminhar até a cozinha;
+		4. Trocar o galão;
+		5. ligar a torneira do bebedouro;
+		6. Encher o copo de água;
+		7. Beber a água do copo;
+FIM
