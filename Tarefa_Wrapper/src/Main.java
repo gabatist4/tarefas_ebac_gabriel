@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        int saldo = 10000;
+        int casa = 10;
         System.out.println(saldo);
-        Integer saldo1 = saldo;
-        System.out.println(saldo1);
+        Integer casa1 = casa;
+        System.out.println(casa1);
     }
 }
