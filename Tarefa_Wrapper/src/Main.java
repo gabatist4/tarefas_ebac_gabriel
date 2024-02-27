@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         int casa = 10;
-        System.out.println(saldo);
+        System.out.println(casa);
         Integer casa1 = casa;
         System.out.println(casa1);
     }
