@@ -3,9 +3,9 @@
 public class Main {
     public static void main(String[] args) {
 
-        float saldo = 10000;
+        int saldo = 10000;
         System.out.println(saldo);
-        long saldo1 = (long) saldo;
+        Integer saldo1 = saldo;
         System.out.println(saldo1);
     }
 }
