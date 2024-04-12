@@ -9,7 +9,7 @@ public class ListaPessoas {
     public static void main(String[] args) {
         List<Pessoa> lista = new Pessoa().listaPessoas();
         //Todas as pessoas
-        lista.stream().forEach(pessoa -> System.out.println(pessoa.getNome()));
+        //lista.stream().forEach(pessoa -> System.out.println(pessoa.getNome()));
         System.out.println("--------------");
         System.out.println("--------------");
         //Somente nomes femininos
